@@ -313,6 +313,17 @@
 		</dependency>
 	</dependencies>
 	
+	<pluginRepositories>
+		<pluginRepository>
+			<id>Central</id>
+			<name>Central Repository</name>
+			<url>http://repo1.maven.org/maven2</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</pluginRepository>
+	</pluginRepositories>
+	
 	
 	<distributionManagement>
         <downloadUrl>http://sourceforge.net/projects/oxygene-project/files/</downloadUrl>
