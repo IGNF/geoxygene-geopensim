@@ -7,7 +7,7 @@
 
 	<groupId>fr.ign.cogit</groupId>
 	<artifactId>geoxygene-geopensim</artifactId>
-	<version>1.7-SNAPSHOT</version>
+	<version>1.8-SNAPSHOT</version>
 	
 	<packaging>jar</packaging>
 	<name>geoxygene-geopensim</name>
@@ -41,7 +41,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<geoxygene.noyau.version>1.7-SNAPSHOT</geoxygene.noyau.version>
+		<geoxygene.noyau.version>1.8-SNAPSHOT</geoxygene.noyau.version>
 		<jts.version>1.13</jts.version>
 		<geotools.version>8.4</geotools.version>
 		<log4j.version>1.2.16</log4j.version>
